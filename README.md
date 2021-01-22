@@ -1,4 +1,4 @@
-# tiny-interpreter
+# tiny-language interpreter
 A Tiny Language interpreter written in Python.
 ```
 python3 tli <file>
